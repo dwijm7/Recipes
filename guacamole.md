@@ -1,6 +1,6 @@
 # Ingridients
 - Avacado
-- Lemon
+- Lime
 - Salt
 # Instructions 
 
